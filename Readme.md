@@ -1,5 +1,5 @@
 # Учебный проект «Барбершоп»
-* Наставник: [Дмитрий Казанцев](https://htmlacademy.ru/profile/id24186)
+
 * Студент: [Кристина Папанова](https://up.htmlacademy.ru/htmlcss/25/user/1017909).
 
 ---
